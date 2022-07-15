@@ -1,0 +1,20 @@
+.block{
+    
+}
+.block_row{
+    display: flex;
+    flex-wrap: ;
+    border: 20px solid #67a714;
+    margin: 0px 0px 20px 0px ;
+}
+.block_column{
+    border: 20px solid #9c1d1d;
+}
+.block_item{
+    background-color: #3018b5;
+    padding: 50px;
+    font-size: 50px;
+    color: #fff;
+    font-weight: 700;
+}
+
