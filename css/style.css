@@ -3,12 +3,16 @@
 }
 .block_row{
     display: flex;
-    flex-wrap: ;
+    
     border: 20px solid #67a714;
     margin: 0px 0px 20px 0px ;
+    flex-direction: column;
+    align-self: flex-start;
+    
 }
 .block_column{
     border: 20px solid #9c1d1d;
+    
 }
 .block_item{
     background-color: #3018b5;
@@ -17,4 +21,11 @@
     color: #fff;
     font-weight: 700;
 }
+.block_column1{
+}
+.block_column2{
+ }
+ .block_column3{ 
+ }
+
 
